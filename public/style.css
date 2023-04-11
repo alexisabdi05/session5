@@ -1,0 +1,35 @@
+body {
+    background-image: url("Assets/download.jpeg");
+}
+
+p {
+    font-size: 6vw;
+    font-weight: 900;
+    -webkit-text-stroke: black 2px;
+    text-shadow: black 3px 3px 5px;
+    color: aliceblue;
+    font-family: "Arial";
+    text-align: center;
+}
+
+.cham {
+    width: 50vw;
+    min-height: 23vw;
+    margin: 3vw auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.cham h2, .cham h3{
+    color: aliceblue;
+    font-size: 4vw;
+    font-weight: 800;
+    -webkit-text-stroke: black 2px;
+    margin: -0.3vw;
+    padding: 0;
+}
+ .cham h3{
+    font-size: 3vw;
+}
+

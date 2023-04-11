@@ -1,0 +1,33 @@
+body {
+    background-image: url("Assets/download.jpeg");
+}
+.det {
+    color: aliceblue;
+    font-size: 7vw;
+    font-weight: 800;
+    width: 60vw;
+    height: auto;
+    margin: 5vw auto;
+    text-align: justify;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 3vw;
+}
+img{
+    width: auto;
+    height: 25vw;
+    padding-bottom: 2vw;
+}
+
+.det h1{
+    font-size: 6vw;
+}
+
+.det h2{
+padding-top: 0.5vw;
+margin: 0;
+font-weight: 700;
+}
+
+.det h4{
+    margin-top: 0vw;
+}
